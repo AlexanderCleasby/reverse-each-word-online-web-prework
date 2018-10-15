@@ -1,4 +1,4 @@
-reverse_each_word(word)
+def reverse_each_word(word)
   word.split()
 end
 
